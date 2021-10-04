@@ -196,7 +196,7 @@ body::-webkit-scrollbar {
   background-position: center;
 }
 #qgis-right-bg {
-  background-image: url('../images/project-images/Qgis.png');
+  background-image: url('../images/project-images/Qgis.PNG');
   height: 70vh;
   width: 70vh;
   border-radius: 50%;
@@ -224,7 +224,7 @@ body::-webkit-scrollbar {
 }
 
 #major-right-bg {
-  background-image: url('../images/project-images/Hotspot.png');
+  background-image: url('../images/project-images/Hotspot.PNG');
   height: 70vh;
   width: 70vh;
   border-radius: 50%;
